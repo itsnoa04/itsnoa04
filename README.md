@@ -1,8 +1,6 @@
 Hi 👋 My name is Devamsh Manoj
 ==============================
 
-<a href="https://app.daily.dev/dev11"><img src="https://api.daily.dev/devcards/a75609af97794d86b4b9158089f2d91a.png?r=q7e" width="400" alt="Devamsh Manoj's Dev Card"/></a>
-
 Full-Stack Developer Targeting React Flutter Python Node Mongo Express Next Go Firebase
 ---------------------------------------------------------------------------------------
 
