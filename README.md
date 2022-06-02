@@ -4,7 +4,16 @@ Hi 👋 My name is Devamsh Manoj
 Full-Stack Developer Targeting React Flutter Python Node Mongo Express Next Go Firebase
 ---------------------------------------------------------------------------------------
 
-I am a full-stack developer, - based on Kochi Kerala - willing to relocate - attending online college on the weekends - 3+ years of professional software experience - 2 years experience with Next JS professionally - 5+ years experience in software development ( hobby ) - 10 years experience of fascination with computer science and breaking software React | HTML | CSS | Flutter | Python | SQL | AJAX | JSON | APIs | NODE.js | Express.js | Strapi | Next.js | DART | SCSS | CMS | JSON | figma | Mongo DB | Firebase | Docker
+I am a full-stack developer,
+- based on Kochi Kerala
+- willing to relocate 
+- attending online college on the weekends 
+- 3+ years of professional software experience 
+- 2 years experience with Next JS professionally 
+- 5+ years experience in software development ( hobby ) 
+- 10 years experience of fascination with computer science and breaking software 
+ 
+React | HTML | CSS | Flutter | Python | SQL | AJAX | JSON | APIs | NODE.js | Express.js | Strapi | Next.js | DART | SCSS | CMS | JSON | figma | Mongo DB | Firebase | Docker
 
 * 🌍  I'm based in Kochi, Kerala
 * ✉️  You can contact me at [itsdevamshmanoj@gmail.com](mailto:itsdevamshmanoj@gmail.com)
