@@ -65,3 +65,5 @@ src="https://img.shields.io/github/followers/itsnoa04?logo=github&style=for-the-
 <a href="http://www.github.com/itsnoa04"><img src="https://github-readme-stats.vercel.app/api?username=itsnoa04&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="itsnoa04's GitHub stats" /></a>
 
 <a href="https://github.com/itsnoa04" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnoa04&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="https://app.daily.dev/dev11"><img src="https://api.daily.dev/devcards/a75609af97794d86b4b9158089f2d91a.png?r=50u" width="400" alt="Devamsh Manoj's Dev Card"/></a>
