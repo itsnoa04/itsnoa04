@@ -15,6 +15,7 @@
         <image src="https://readme-typing-svg.herokuapp.com/?width=700&lines=I%27m+addicted+to+Anime%2C+Programming+and+Retro+Games;What+you+guys+think+about+WEB+3%3F">
       <br>
     </samp>
+        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsnoa04&" alt="itsnoa04" /></p>
   </p>
 
 <br>
