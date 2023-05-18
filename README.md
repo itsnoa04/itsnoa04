@@ -6,7 +6,7 @@
 I'm a software engineer currently working at Perfomatix. Welcome to my GitHub profile! 🌟
 
 - 🌱 Constantly exploring and learning new technologies 💡
-- 🎮 Passionate gamer, but mostly just a stories fan 🎮
+- 🎮 Passionate gamer, but mostly just a stories fan, execpt for valo 🎮
 - 📺 Huge anime fan, always up for captivating anime series 📺
 - 📚 Knowledge seeker in tech and the anime realm 📚
 
