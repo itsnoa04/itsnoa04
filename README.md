@@ -9,7 +9,7 @@
       <br>
         My name is <strong>Devamsh Manoj</strong>
         <br>
-        I love the Web, AI, Penguins and Pandas...
+<!--         I love the Web, AI, Penguins and Pandas... -->
       <b>
 <!--       <br>
         <image src="https://readme-typing-svg.herokuapp.com/?width=700&lines=I%27m+addicted+to+Anime%2C+Programming+and+Retro+Games;What+you+guys+think+about+WEB+3%3F">
